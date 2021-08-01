@@ -97,3 +97,35 @@ h2{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
+.ltst h2{
+    padding-top: 6%;
+    padding-bottom: 3%;
+}
+#f4div2{
+    padding-bottom: 3%;
+}
+#f4div2 p{
+    padding-bottom: 3%;
+}
+#f4div3{
+    margin: 2% 23% 0;
+    padding: 3% 0 4%;
+    background-image: linear-gradient(#ec5196,#ed4b6f);
+    letter-spacing: 2px;
+    border-radius: 15px;
+    color: white;
+}
+#f4div3 h3{
+    letter-spacing: 3px;
+}
+.forth-section{
+    height: 1070px;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+}
+#foot{
+    text-align: center;
+    padding-top: 13%;
+}
